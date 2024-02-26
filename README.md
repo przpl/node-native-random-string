@@ -15,7 +15,7 @@ A cryptographically strong pseudo-random string generator using only the native 
 
 ## Requirements
 
--   Node.js v14.10.0 or higher
+-   Node.js v18.0.0 or higher
 
 ## Examples
 
